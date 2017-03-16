@@ -1,0 +1,6 @@
+com\socialMedicals\entity\request\AddUserRequest.class
+com\socialMedicals\controller\UserController.class
+com\socialMedicals\SmApplication.class
+com\socialMedicals\controller\HelloController.class
+com\socialMedicals\repository\UserRepository.class
+com\socialMedicals\entity\User.class
